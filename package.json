@@ -1,9 +1,12 @@
 {
+  "homepage": "https://ameenbasith.github.io/task-manager",
   "name": "jobs",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
+    "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "start": "nodemon app.js"
   },
   "keywords": [],
