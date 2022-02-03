@@ -9,9 +9,7 @@ That's when I decided that I genuinely wanted to make a task manager application
 ## The Solution
 Although I had a fairly straight forward idea in regards to how I wanted to structure this project, I decided to go one step further, as I genuinely wanted to know how challenging this project could get. That's when I stumbled upon this YouTube tutorial: https://www.youtube.com/watch?v=jIsj0upCBAM&t=434s 
 
-I made some changes to the front-end color scheme of the final product, and here is a quick demonstration below:
-
-https://user-images.githubusercontent.com/90441599/149759044-4b0ff733-16b1-47cc-bdc6-b2dbcd6f8327.mp4
+I also made some changes to the front-end color scheme of the final product.
 
 Initially, I wasn't too keen on following a YouTube tutorial to create this application, however, I genuinely learned a lot more than I expected!
 
